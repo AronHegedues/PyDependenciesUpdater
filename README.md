@@ -3,9 +3,9 @@ Updates all your Dependencies on execution and checks if you have the newest Pyt
 
 ## Setup
 
-`pip3 install requests`
-`pip3 install termcolor`
-`pip3 install bs4`
+```pip3 install requests```
+```pip3 install termcolor```
+```pip3 install bs4```
 
 ## Running
 
